@@ -10,6 +10,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		Readme.md = Readme.md
 	EndProjectSection
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FileIO", "..\JARVIS2\CSC438\FileIO\FileIO.csproj", "{215D405D-27F4-4355-968E-2540F8E93308}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,6 +22,10 @@ Global
 		{1097B50C-A33B-4F19-B2A0-6EE21895892C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1097B50C-A33B-4F19-B2A0-6EE21895892C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1097B50C-A33B-4F19-B2A0-6EE21895892C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{215D405D-27F4-4355-968E-2540F8E93308}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{215D405D-27F4-4355-968E-2540F8E93308}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{215D405D-27F4-4355-968E-2540F8E93308}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{215D405D-27F4-4355-968E-2540F8E93308}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
